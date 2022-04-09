@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Chapter2第一個單元測試/1.0.0": {
+        "runtime": {
+          "Chapter2第一個單元測試.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapter2第一個單元測試/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

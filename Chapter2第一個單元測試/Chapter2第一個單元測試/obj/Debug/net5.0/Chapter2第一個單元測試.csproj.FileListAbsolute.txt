@@ -1,0 +1,12 @@
+D:\C#單元測試\Chapter2第一個單元測試\Chapter2第一個單元測試\bin\Debug\net5.0\Chapter2第一個單元測試.deps.json
+D:\C#單元測試\Chapter2第一個單元測試\Chapter2第一個單元測試\bin\Debug\net5.0\Chapter2第一個單元測試.dll
+D:\C#單元測試\Chapter2第一個單元測試\Chapter2第一個單元測試\bin\Debug\net5.0\ref\Chapter2第一個單元測試.dll
+D:\C#單元測試\Chapter2第一個單元測試\Chapter2第一個單元測試\bin\Debug\net5.0\Chapter2第一個單元測試.pdb
+D:\C#單元測試\Chapter2第一個單元測試\Chapter2第一個單元測試\obj\Debug\net5.0\Chapter2第一個單元測試.csproj.AssemblyReference.cache
+D:\C#單元測試\Chapter2第一個單元測試\Chapter2第一個單元測試\obj\Debug\net5.0\Chapter2第一個單元測試.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#單元測試\Chapter2第一個單元測試\Chapter2第一個單元測試\obj\Debug\net5.0\Chapter2第一個單元測試.AssemblyInfoInputs.cache
+D:\C#單元測試\Chapter2第一個單元測試\Chapter2第一個單元測試\obj\Debug\net5.0\Chapter2第一個單元測試.AssemblyInfo.cs
+D:\C#單元測試\Chapter2第一個單元測試\Chapter2第一個單元測試\obj\Debug\net5.0\Chapter2第一個單元測試.csproj.CoreCompileInputs.cache
+D:\C#單元測試\Chapter2第一個單元測試\Chapter2第一個單元測試\obj\Debug\net5.0\Chapter2第一個單元測試.dll
+D:\C#單元測試\Chapter2第一個單元測試\Chapter2第一個單元測試\obj\Debug\net5.0\ref\Chapter2第一個單元測試.dll
+D:\C#單元測試\Chapter2第一個單元測試\Chapter2第一個單元測試\obj\Debug\net5.0\Chapter2第一個單元測試.pdb

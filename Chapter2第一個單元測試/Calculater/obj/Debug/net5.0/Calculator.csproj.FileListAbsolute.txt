@@ -1,0 +1,12 @@
+D:\C#單元測試\Chapter2第一個單元測試\Calculater\bin\Debug\net5.0\Calculator.deps.json
+D:\C#單元測試\Chapter2第一個單元測試\Calculater\bin\Debug\net5.0\Calculator.dll
+D:\C#單元測試\Chapter2第一個單元測試\Calculater\bin\Debug\net5.0\ref\Calculator.dll
+D:\C#單元測試\Chapter2第一個單元測試\Calculater\bin\Debug\net5.0\Calculator.pdb
+D:\C#單元測試\Chapter2第一個單元測試\Calculater\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+D:\C#單元測試\Chapter2第一個單元測試\Calculater\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#單元測試\Chapter2第一個單元測試\Calculater\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+D:\C#單元測試\Chapter2第一個單元測試\Calculater\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+D:\C#單元測試\Chapter2第一個單元測試\Calculater\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+D:\C#單元測試\Chapter2第一個單元測試\Calculater\obj\Debug\net5.0\Calculator.dll
+D:\C#單元測試\Chapter2第一個單元測試\Calculater\obj\Debug\net5.0\ref\Calculator.dll
+D:\C#單元測試\Chapter2第一個單元測試\Calculater\obj\Debug\net5.0\Calculator.pdb
